@@ -1,1 +1,1 @@
-Correlation between gross earnings and other parameteres, using pandas, numpy, seaborn and matplotlib
+Correlation between gross earnings and other parameters, using pandas, numpy, seaborn and matplotlib
